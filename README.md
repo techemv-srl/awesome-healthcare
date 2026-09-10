@@ -183,6 +183,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
 
 ### Integration
+  * [BridgeLab](https://github.com/techemv-srl/BridgeLab) - Open-source desktop workbench to edit, validate and test HL7 v2 and FHIR messages (MLLP, HTTP, PHI masking, FHIRPath). Rust/Tauri, Windows/macOS/Linux.
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
   * [Google HCLS Data Harmonization](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
   * [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
